@@ -3,7 +3,7 @@
 ### A Deep Dive into Feature Engineering, Security Patterns, and ML-Inspired Analysis for ERC-20 Token Scam Detection
 
 ---      
-  
+   
 ## Introduction   
 
 Rugpulls are one of the most common and devastating attack patterns in the Web3 ecosystem.
