@@ -4,7 +4,7 @@
 
 ---               
    
-## Introduction      
+## Introduction       
 
 Rugpulls are one of the most common and devastating attack patterns in the Web3 ecosystem.
 A malicious token is deployed, marketed, pumped, and at the moment of maximum hype:
